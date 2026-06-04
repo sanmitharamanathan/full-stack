@@ -1,0 +1,25 @@
+/*selector{
+       property value;
+}*/
+p{
+    color: aquamarine;
+}
+h1{
+    background-color: aquamarine;
+}
+p{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: small;
+    text-decoration: underline;
+}
+a{
+    color: black;
+    text-decoration: underline;
+}
+.link{
+    color:black;
+    text-decoration: underline;
+}
+      
